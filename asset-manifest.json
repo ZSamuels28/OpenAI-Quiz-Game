@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OpenAI-Quiz-Game/static/css/main.45a837b0.css",
+    "main.js": "/OpenAI-Quiz-Game/static/js/main.1df509b4.js",
+    "static/js/787.42703cda.chunk.js": "/OpenAI-Quiz-Game/static/js/787.42703cda.chunk.js",
+    "index.html": "/OpenAI-Quiz-Game/index.html",
+    "main.45a837b0.css.map": "/OpenAI-Quiz-Game/static/css/main.45a837b0.css.map",
+    "main.1df509b4.js.map": "/OpenAI-Quiz-Game/static/js/main.1df509b4.js.map",
+    "787.42703cda.chunk.js.map": "/OpenAI-Quiz-Game/static/js/787.42703cda.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45a837b0.css",
+    "static/js/main.1df509b4.js"
+  ]
+}
